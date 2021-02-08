@@ -1,0 +1,33 @@
+body {
+background-color: lightpink;
+}
+
+.header{
+display: flex;
+    justify-content: center;
+    background-image: url("https://media.giphy.com/media/ZkwbvaFT7ZaAU/giphy.gif");
+    height: 230px;
+    color: white;
+}
+
+h1{
+padding-top: 15px;
+   	font-family: 'Shadows Into Light', cursive;
+    font-size: 75px;
+}
+
+.dogPics {
+display:flex;
+    margin: 50px;   
+    justify-content: center;
+}
+
+img {
+    padding: 20px;
+    width: auto;
+    height: 250px;
+}
+
+p {
+margin-left: 25px; 
+}
